@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@swapi48/time-series-analysis-of-covid-19-statistics-from-august-2020-to-november-2022-in-boston-c263d09ff1e9](https://medium.com/@swapi48/time-series-analysis-of-covid-19-statistics-from-august-2020-to-november-2022-in-boston-c263d09ff1e9)
 
-- 💬 Ask me about **healthcare data, CDISC, FDA, Regulatory, Medical Writing, Tableau, R, Python, SQL**
+- 💬 Ask me about **healthcare data, Tableau, R, Python, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
