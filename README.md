@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Swapnesh Tiwari</h1>
-<h3 align="center">A seasoned Data Scientist with over six years of experience in healthcare informatics, data analysis, medical writing and clinical settings.</h3>
+<h3 align="center">A seasoned Data Scientist with experience in healthcare informatics, data analysis, medical writing and clinical settings.</h3>
 
 <img align="right" alt="Coding" width="400" src= "https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
